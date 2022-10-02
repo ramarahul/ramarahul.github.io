@@ -382,8 +382,8 @@ body.dark-theme {
 }
 
 .skills__info{
-  grid-template-columns: repeat(2, 1fr);
-  gap: 2.5rem 2 rem;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem 2rem;
 }
 
 .skills__data{
