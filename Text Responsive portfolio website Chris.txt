@@ -101,17 +101,13 @@ Education
 Work
 
 .qualification__name .qualification__country .qualification__year
-Master In Web Developer
-India - University
-2014 - 2019
+Master of Arts, Sociology
+IGNOU - India
+2019 - 2021
 
-UI/UX Design
-Institute - Spain
-2017 - 2019
-
-Computer Engineer
-Institute - India
-2019 - 2022
+Bachelor of Technology 
+DAIICT - India
+2015 - 2019
 
 
 
