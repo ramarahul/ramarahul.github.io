@@ -9,8 +9,8 @@ Home - Skills - Qualification - Services - Projects - Contact
 ========== HOME ==========
 .home__title
 Hi, I’m Rahul <br>
-Frontend Developer <br>
-Based In Perú <br>
+DevOps Engineer <br>
+Based In India <br>
 
 .home__social
 https://www.linkedin.com/
