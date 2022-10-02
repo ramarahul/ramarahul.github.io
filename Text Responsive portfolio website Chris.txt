@@ -13,9 +13,9 @@ DevOps Engineer <br>
 Based In India <br>
 
 .home__social
-https://www.linkedin.com/
-https://github.com/
-https://dribbble.com/
+https://www.linkedin.com/in/chintalapati-venkata-rama-rahul-b7a38312b/
+https://github.com/ramarahul/
+https://twitter.com/ramarahul6/
 
 .home__info-title
 BIOGRAPHY
@@ -26,17 +26,17 @@ COMPLETED PROJECTS
 COMPANIES WORKED
 
 .home__info-description .home__info-number
-Hi, I'm Rahul, Frontend Developer.
-Passionate about designing beautiful web
-interfaces. Based in Perú.
+Hi, I'm Rahul, DevOps Engineer.
+Passionate about DevOps and
+Cloud Technologies. Based in India.
 
-Lima, Perú <br>
-Rahulmayer@email.com <br>
-+51 9876543210 <br>
+Hyderabad, TS, India <br>
+ramarahulchintalapati@gmail.com <br>
++91 8309786958 <br>
 
-Website Design <br>
-UI/UX Design <br>
-Animation <br>
+Cloud Computing <br>
+CI/CD Deployment <br>
+Automation <br>
 
 08+
 
@@ -53,39 +53,39 @@ Skills
 My favorite skills
 
 .skills__title
-Frontend Developer 
-Web Designer
+Software Developer 
+DevOps Engineer
 
 .skills__name .skills__subtitle
-HTML
+AWS
 Intermediate
 
-CSS
+Jenkins
 Advanced
 
-JavaScript
+Docker
 Intermediate
 
-React
+Linux
 Basic
 
 Git
 Intermediate
 
 
-Figma
+Typescript
 Advanced
 
-Sketch
+Java
 Basic
 
-Adobe XD
+Python
 Intermediate
 
-InvisionApp
+GCP
 Basic
 
-Photoshop
+Groovy
 Intermediate
 
 
@@ -102,7 +102,7 @@ Work
 
 .qualification__name .qualification__country .qualification__year
 Master In Web Developer
-Perú - University
+India - University
 2014 - 2019
 
 UI/UX Design
@@ -110,21 +110,18 @@ Institute - Spain
 2017 - 2019
 
 Computer Engineer
-Institute - Perú
+Institute - India
 2019 - 2022
 
 
-Fontend Developer
-Adobe - Spain
-2014 - 2019
+
+Business Technology Analyst
+Deloitte USI - India
+2020 - 2022
 
 Software Engineer
-Microsoft - Perú
-2018 - 2020
-
-Graphic Designer
-Figma - Perú
-2020 - Present
+Precisely - India
+2022 - Present
 
 
 ========== SERVICES ==========
@@ -207,10 +204,10 @@ Write me your project
 
 .contact__data-title .contact__data-info .contact__button
 Email
-Rahulmayer@email.com
+ramarahulchintalapati@gmail.com
 
 Whatsapp
-+51 9876543210
++91 8309786958
 Write me
 
 <!-- Insert a real number plus country code -->
@@ -259,7 +256,7 @@ Submit
 Rahul
 
 <p>
-Frontend Developer
+DevOps Engineer
 
 .footer__link
 Home
@@ -267,9 +264,9 @@ Skills
 Projects
 
 .footer__social-link
-https://www.linkedin.com/
-https://github.com/
-https://dribbble.com/
+https://www.linkedin.com/in/chintalapati-venkata-rama-rahul-b7a38312b/
+https://github.com/ramarahul/
+https://twitter.com/ramarahul6/
 
 .footer__copy
 &#169; Copyright Bedimcode. All rights reserved
