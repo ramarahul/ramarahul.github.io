@@ -1,6 +1,6 @@
 ========== HEADER ==========
 .nav__logo
-Chris
+Rahul
 
 .nav__link
 Home - Skills - Qualification - Services - Projects - Contact
@@ -8,7 +8,7 @@ Home - Skills - Qualification - Services - Projects - Contact
 
 ========== HOME ==========
 .home__title
-Hi, I’m Chris <br>
+Hi, I’m Rahul <br>
 Frontend Developer <br>
 Based In Perú <br>
 
@@ -26,12 +26,12 @@ COMPLETED PROJECTS
 COMPANIES WORKED
 
 .home__info-description .home__info-number
-Hi, I'm Chris, Frontend Developer.
+Hi, I'm Rahul, Frontend Developer.
 Passionate about designing beautiful web
 interfaces. Based in Perú.
 
 Lima, Perú <br>
-chrismayer@email.com <br>
+Rahulmayer@email.com <br>
 +51 9876543210 <br>
 
 Website Design <br>
@@ -179,7 +179,7 @@ Testimonial
 My client saying
 
 .testimonial__description .testimonial__name .testimonial__subtitle
-“Working with Chris is to give a good 
+“Working with Rahul is to give a good 
 impression, I carry out my project at a good 
 cost, with excellent quality and attention. 
 Great service and recommended.”
@@ -207,7 +207,7 @@ Write me your project
 
 .contact__data-title .contact__data-info .contact__button
 Email
-chrismayer@email.com
+Rahulmayer@email.com
 
 Whatsapp
 +51 9876543210
@@ -217,7 +217,7 @@ Write me
 https://api.whatsapp.com/send?phone=519876543210&text=Hello, more information!
 
 Messenger
-@chris.fb123
+@Rahul.fb123
 Write me
 
 <!-- Insert your brand name or profile -->
@@ -256,7 +256,7 @@ Submit
 // To clear the input field
 ========== FOOTER ==========
 .footer__title
-Chris
+Rahul
 
 <p>
 Frontend Developer
