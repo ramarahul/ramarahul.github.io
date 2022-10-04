@@ -687,6 +687,13 @@ margin-bottom: 1.25rem;
   transform: translateY(-.15rem);
 }
 
+.footer__copy{
+  display: block;
+  margin-top: 4.5rem;
+  font-size: var(--smaller-font-size);
+  color: var(--text-color-light);
+}
+
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar{
   width: .6rem;
@@ -811,13 +818,13 @@ margin-bottom: 1.25rem;
 
   .skills__container,
   .qualification__container,
-  .services__container,
+  .certifications__container,
   .contact__container{
     grid-template-columns: repeat(2, max-content);
   }
 
   .skills__container,
-  .services__container{
+  .certifications__container{
     column-gap: 5rem;
   }
 
@@ -1028,22 +1035,22 @@ margin-bottom: 1.25rem;
       bottom: 5rem;
   }
 
-  .services__container{
+  .certifications__container{
     grid-template-columns: repeat(3, max-content);
   }
 
-  .services__card{
+  .certifications__card{
     width: 245px;
     height: 345px;
     border-radius: 7.6rem;
     padding: 3.5rem 1.5rem;
   }
 
-  .services__card i{
+  .certifications__card i{
     font-size: 2.5rem;
   }
 
-  .services__border{
+  .certifications__border{
     width: 265px;
     height: 365px;
     border-radius: 8.25rem;
