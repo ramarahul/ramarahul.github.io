@@ -265,7 +265,7 @@ https://github.com/ramarahul/
 https://twitter.com/ramarahul6/
 
 .footer__copy
-&#169; Copyright Bedimcode. All rights reserved
+Made by Rahul using HTML, CSS & JavaScript
 
 
 
