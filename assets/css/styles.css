@@ -516,8 +516,8 @@ body.dark-theme {
 }
 
 .qualification__name{
-font-size: var(--normal-font-size);
-margin-bottom: 1.25rem;
+  font-size: var(--normal-font-size);
+  margin-bottom: 1.25rem;
 }
 
 .qualification__country,
@@ -540,8 +540,33 @@ margin-bottom: 1.25rem;
   opacity: .1;
 }
 
-/*=============== SERVICES ===============*/
+/*=============== CERTIFICATIONS ===============*/
+.certifications__container{
+  row-gap: 3.5rem;
+}
 
+.certifications__name{
+  font-size: var(--normal-font-size);
+  margin-bottom: 1.25rem;
+  justify-self: center;
+  justify-content: center;
+}
+
+.certifications__subtitle{
+  display: block;
+  font-size: var(--small-font-size);
+  color: var(--text-color-light);
+}
+
+.certifications__blob{
+  display: grid;
+}
+
+.certifications__blob img{
+  width: 60px;
+  height: 60px;
+  margin-left: 5rem;
+}
 
 /*=============== PROJECTS ===============*/
 .projects__container{
@@ -823,9 +848,30 @@ margin-bottom: 1.25rem;
     grid-template-columns: repeat(2, max-content);
   }
 
-  .skills__container,
-  .certifications__container{
+  .skills__container{
     column-gap: 5rem;
+  }
+
+  .certifications__container{
+    column-gap: 10rem;
+  }
+
+  .certifications__data .certifications__blob img{
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+    margin-left: 5.5rem;
+  }
+
+  .certifications__name{
+    font-size: var(--small-font-size);
+    text-align: center;
+  }
+
+  .certifications__subtitle{
+    font-size: var(--smaller-font-size);
+    text-align: center;
   }
 
   .qualification__container{
@@ -1036,24 +1082,20 @@ margin-bottom: 1.25rem;
   }
 
   .certifications__container{
-    grid-template-columns: repeat(3, max-content);
+    grid-template-columns: repeat(2, max-content);
+    column-gap: 20rem;
   }
 
-  .certifications__card{
-    width: 245px;
-    height: 345px;
-    border-radius: 7.6rem;
-    padding: 3.5rem 1.5rem;
+  .certifications__data .certifications__blob img{
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    margin-bottom: 1.5rem;
   }
 
-  .certifications__card i{
-    font-size: 2.5rem;
-  }
-
-  .certifications__border{
-    width: 265px;
-    height: 365px;
-    border-radius: 8.25rem;
+  .certifications__name,
+  .certifications__subtitle{
+    text-align: center;
   }
 
   .projects__container{
