@@ -662,6 +662,20 @@ body.dark-theme {
 
 
 /*=============== CONTACT ===============*/
+.contact__title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: .5rem;
+  font-size: var(--small-font-size);
+  font-weight: var(--font-semi-bold);
+  margin-bottom: 2rem;
+}
+
+.contact__title i{
+  font-size: 1rem;
+  font-weight: initial;
+}
 
 
 /* Status color */
@@ -1063,12 +1077,21 @@ body.dark-theme {
     column-gap: 14rem;
   }
 
-  .qualification__title{
+  .qualification__title,
+  .contact__title{
     margin-bottom: 3rem;
   }
 
   .qualification__title i{
     font-size: 1.25rem;
+  }
+
+  .contact__title i{
+    font-size: 1.25rem;
+  }
+
+  .contact__title{
+    font-size: 1.5rem;
   }
 
   .qualification__name{
@@ -1096,6 +1119,7 @@ body.dark-theme {
   .certifications__name,
   .certifications__subtitle{
     text-align: center;
+    font-size: var(--normal-font-size);
   }
 
   .projects__container{
@@ -1156,7 +1180,9 @@ body.dark-theme {
   }
 
   .contact__title{
-    margin-bottom: 3rem;
+    margin-left: 4rem;
+    font-family: var(--body-font);
+    font-weight: 400;
   }
 
   .contact__title i{
